@@ -1,2 +1,2 @@
 # Python
-print("Hello World")
+
